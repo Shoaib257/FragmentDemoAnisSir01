@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentDemoAnisSir01</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ronbir_details">
+        \nName : Ronbir
+        \nAge : 37
+        \nPhone: +02884444
+    </string>
+
+    <string name="salman_details">
+        \nName : Salman Khan
+        \nAge : 53
+        \nPhone: +0286543
+    </string>
+</resources>
